@@ -13,11 +13,11 @@ Nowaday, emails are used in almost every field, from business to education. Emai
 8. Deploy
 
 # Tech stack Used
+1.scikit-learn
+2.pandas
+3.numpy
+4. streamlit
 
-1. scikit-learn
-2.pandas 
-3.nump
-4.streamlit
 
 # To run application use command in cmd
 streamlit run spamDetector.py
